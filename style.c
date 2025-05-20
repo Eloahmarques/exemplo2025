@@ -34,7 +34,7 @@ heaer{
 }
 
 nav{
-    background-color:#555;
+    background-color:#444;
     display:none;
     flex-direvtion:column;
 }

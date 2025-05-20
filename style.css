@@ -5,10 +5,10 @@ body{
 heaer{
     display; flex;
     align-items:center;
-    justify-contet:space-between;
-    backgond-color:#333;
+    justify-content:space-between;
+    background-color:#333;
     color:white;
-    pading:10px20px;
+    padding:10px20px;
 }
 
 .logo{
@@ -29,18 +29,18 @@ heaer{
 .menu-incon span{
     height:3px;
     background:white;
-    margin:4px0;
-    borer-radius;2px;
+    margin:4px;
+    border-radius:2px;
 }
 
 nav{
     background-color:#444;
     display:none;
-    flex-direvtion:column;
+    flex-direction:column;
 }
 nav a {
     color:whit;
-    pading:15px20px;
+    padding:15px20px;
     text-decoration:none;
     border-bottom:1px solid#555;
 }
@@ -52,7 +52,7 @@ nav a:hover{
     display:flex;
 }
 
-@meia(min-width:768px){
+@media (min-width:768px){
     .menu-incon{
         display:none;
     }

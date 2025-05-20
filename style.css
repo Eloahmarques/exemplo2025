@@ -3,7 +3,7 @@ body{
     margin:0;
     font-family:arial,sans-serif;
 }
-heaer{
+header{
     display; flex;
     align-items:center;
     justify-content:space-between;
@@ -29,7 +29,7 @@ heaer{
 
 .menu-incon span{
     height:3px;
-    background:white;
+    background:rgb(238, 73, 73);
     margin:4px;
     border-radius:2px;
 }
@@ -62,4 +62,8 @@ nav a:hover{
         flex-direction:row;
         background:none;
     }
+}
+nav a {
+    border:none;
+}
 }

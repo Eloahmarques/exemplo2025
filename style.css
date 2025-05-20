@@ -28,10 +28,10 @@ header{
 }
 
 .menu-incon span{
-    height:3px;
+    height:4px;
     background:rgb(238, 73, 73);
-    margin:4px 0;
-    border-radius:3px;
+    margin:5px 0;
+    border-radius:4px;
 }
 
 nav{

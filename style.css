@@ -4,7 +4,7 @@ body{
     font-family:arial,sans-serif;
 }
 header{
-    display; flex;
+    display;flex;
     align-items:center;
     justify-content:space-between;
     background-color:#333;
@@ -30,7 +30,7 @@ header{
 .menu-incon span{
     height:3px;
     background:rgb(238, 73, 73);
-    margin:4px;
+    margin:4px 0;
     border-radius:2px;
 }
 
@@ -40,7 +40,7 @@ nav{
     flex-direction:column;
 }
 nav a {
-    color:whit;
+    color:white;
     padding:15px20px;
     text-decoration:none;
     border-bottom:1px solid#555;

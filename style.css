@@ -66,3 +66,8 @@ nav a:hover{
 nav a {
     border:none;
 }
+
+.img_receita{
+    width: 300px;
+    height: 400px;
+}
